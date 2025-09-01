@@ -1,10 +1,10 @@
-# 🎬 Video Generation Prompts - Task 6 Deep Fake
+# Video Generation Prompts - Task 6 Deep Fake
 
 This document contains the exact prompts used to generate the Syracuse Basketball deep fake interview videos.
 
 ---
 
-## 📺 Video 1: Professional Coach Interview
+## Video 1: Professional Coach Interview
 
 ### **MASTER PROMPT FOR VIDEO GENERATION**
 
@@ -78,7 +78,7 @@ Create a realistic sports interview scene featuring a Syracuse Women's Basketbal
 
 ---
 
-## 🎤 Video 2: Campus Alumni Interview
+## Video 2: Campus Alumni Interview
 
 ### **STREET INTERVIEW PROMPT 2: Alumni Perspective**
 
@@ -149,7 +149,7 @@ Professional street interview setup outside Syracuse University with authentic c
 
 ---
 
-## 📝 Prompt Engineering Analysis
+## Prompt Engineering Analysis
 
 ### **Critical Success Factors:**
 1. **Detailed Character Specifications:** Age ranges, clothing, and professional demeanor requirements
@@ -174,7 +174,7 @@ Professional street interview setup outside Syracuse University with authentic c
 
 ---
 
-## 🎯 Prompt Effectiveness Assessment
+## Prompt Effectiveness Assessment
 
 ### **Successful Prompt Elements:**
 - **Comprehensive Visual Descriptions:** Detailed character and setting specifications produced realistic results

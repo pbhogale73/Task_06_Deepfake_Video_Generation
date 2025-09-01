@@ -1,10 +1,10 @@
-# 🎬 Task 6: Deep Fake - AI-Generated Syracuse Basketball Interviews
+# Task 6: Deep Fake - AI-Generated Syracuse Basketball Interviews
 
 This repository contains AI-generated deep fake interviews based on Syracuse Women's Basketball 2023-24 season analysis from Task 5.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Task_06_Deep_Fake/
@@ -22,7 +22,7 @@ Task_06_Deep_Fake/
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 ### **Objective**
 Transform basketball coaching insights from Task 5 into AI-generated "deep fake" interview videos, testing current AI video generation capabilities for creating realistic sports media content.
@@ -36,7 +36,7 @@ Based on Syracuse Women's Basketball 2023-24 analysis:
 
 ---
 
-## 🎬 Generated Videos
+## Generated Videos
 
 ### **Video 1: Professional Coach Interview**
 - **Duration:** 8 seconds
@@ -62,7 +62,7 @@ Based on Syracuse Women's Basketball 2023-24 analysis:
 
 ---
 
-## 🛠️ Process Documentation
+## Process Documentation
 
 ### **AI Tools Used**
 - **Video Generation Platform:** [Insert platform used - e.g., RunwayML, D-ID, HeyGen]
@@ -85,7 +85,7 @@ Based on Syracuse Women's Basketball 2023-24 analysis:
 
 ---
 
-## 📊 Technical Specifications
+## Technical Specifications
 
 ### **Video 1 - Professional Coach Interview:**
 - **Resolution:** 1080p HD
@@ -107,7 +107,7 @@ Based on Syracuse Women's Basketball 2023-24 analysis:
 
 ---
 
-## 🎯 Research Insights & Process Analysis
+## Research Insights & Process Analysis
 
 ### **Successful Elements**
 - **AI Platform Capability:** Successfully generated realistic interview scenarios with professional broadcast quality
@@ -130,7 +130,7 @@ Based on Syracuse Women's Basketball 2023-24 analysis:
 
 ---
 
-## 🏀 Connection to Task 5 Basketball Analysis
+## Connection to Task 5 Basketball Analysis
 
 ### **Strategic Integration**
 These deep fake interviews directly incorporate key analytical findings:
@@ -149,7 +149,7 @@ These deep fake interviews directly incorporate key analytical findings:
 
 ---
 
-## 📈 Educational & Research Value
+## Educational & Research Value
 
 ### **AI Technology Demonstration**
 - **Current Capability Assessment:** Showcases state-of-the-art deep fake video generation quality
@@ -165,7 +165,7 @@ These deep fake interviews directly incorporate key analytical findings:
 
 ---
 
-## 🎬 Quality Assessment Metrics
+## Quality Assessment Metrics
 
 ### **Technical Excellence**
 - **Visual Realism:** High-quality character animation and environmental rendering
@@ -181,7 +181,7 @@ These deep fake interviews directly incorporate key analytical findings:
 
 ---
 
-## 🚀 Future Applications & Extensions
+## Future Applications & Extensions
 
 ### **Immediate Opportunities**
 - **Extended Content Series:** Development of longer-form interview content through segment combination
@@ -197,7 +197,7 @@ These deep fake interviews directly incorporate key analytical findings:
 
 ---
 
-## 🏆 Project Achievement Summary
+## Project Achievement Summary
 
 This project successfully demonstrates the integration of advanced AI video generation technology with meaningful sports analytics content, creating professional-quality deep fake interviews that authentically represent Syracuse University while conveying strategic basketball insights derived from statistical analysis.
 
@@ -209,7 +209,7 @@ This project successfully demonstrates the integration of advanced AI video gene
 
 ---
 
-## 📞 Contact Information
+## Contact Information
 
 **Student:** [Friend's Name]  
 **Course:** Research Task 6 - Deep Fake  
